@@ -9,3 +9,5 @@ LISTES DES PLANETES SOLEIL:
 - Saturne
 - Uranus
 - Neptune
+
+Les planètes soleils sont au nombre de 8 !!!
